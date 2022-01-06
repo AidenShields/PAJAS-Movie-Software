@@ -1,0 +1,39 @@
+
+--------------------------------------
+Name:           Harry Potter
+Rating:         PG
+Director:       Chris Columbus
+Release Date:   2001-11-29
+Movie Cast:     [Daniel Radcliffe, Emma Watson, Rupert Grint]
+Movie Synopsis: You're a wizard Harry
+--------------------------------------
+  11:12 Tue 2/11  | Bronze
+  11:12 Wed 3/11  | Bronze
+  11:12 Wed 3/11  | Silver
+--------------------------------------
+
+--------------------------------------
+Name:           Suicide Squad
+Rating:         MA
+Director:       James Gunn
+Release Date:   2021-08-05
+Movie Cast:     [Sylvester Stallone, Jai Courtney, Viola Davis]
+Movie Synopsis: Death Squad
+--------------------------------------
+  11:12 Tue 2/11  | Silver
+  11:12 Tue 2/11  | Gold
+  11:12 Wed 3/11  | Gold
+--------------------------------------
+
+--------------------------------------
+Name:           Black Widow
+Rating:         M
+Director:       Cate Shortland
+Release Date:   2021-07-29
+Movie Cast:     [Scarlett Johansson, David Harbour, Florence Pugh]
+Movie Synopsis: Natasha Romanoff, a former KGB spy, is shocked to find out...
+--------------------------------------
+  13:12 Wed 3/11  | Bronze
+  13:12 Tue 2/11  | Silver
+  13:12 Tue 2/11  | Gold
+--------------------------------------

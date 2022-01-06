@@ -1,0 +1,10 @@
+11:12 Tue 02/11 | Harry Potter  Bronze  | Num bookings: 0 | Capacity: 75/75
+11:12 Tue 02/11 | Suicide Squad Silver  | Num bookings: 0 | Capacity: 45/45
+11:12 Tue 02/11 | Suicide Squad Gold    | Num bookings: 0 | Capacity: 45/45
+13:12 Tue 02/11 | Black Widow   Silver  | Num bookings: 0 | Capacity: 45/45
+13:12 Tue 02/11 | Black Widow   Gold    | Num bookings: 0 | Capacity: 45/45
+
+11:12 Wed 03/11 | Harry Potter  Bronze  | Num bookings: 0 | Capacity: 75/75
+11:12 Wed 03/11 | Harry Potter  Silver  | Num bookings: 0 | Capacity: 45/45
+11:12 Wed 03/11 | Suicide Squad Gold    | Num bookings: 0 | Capacity: 45/45
+13:12 Wed 03/11 | Black Widow   Bronze  | Num bookings: 0 | Capacity: 75/75

@@ -1,0 +1,4 @@
+Booking ID   Time Date   Customer   Reason
+3       07:50 Wed 03/11 Archie          Timeout     
+6       20:50 Wed 03/11 Aiden           User cancelled
+8       22:50 Tue 02/11 Jack            Patment failed
